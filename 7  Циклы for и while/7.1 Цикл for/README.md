@@ -46,3 +46,54 @@ s, num = input(), int(input())
 for i in range(num):
     print(s)
 ```
+
+## 7.1.3 Последовательность символов
+
+### 7.1.3 Условие задачи  
+
+Напишите программу, которая использует ровно три цикла `for` для печати следующей последовательности символов:
+
+```python
+AAA
+AAA
+AAA
+AAA
+AAA
+AAA
+BBBB
+BBBB
+BBBB
+BBBB
+BBBB
+E
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+TTTTT
+G
+```
+
+**Формат входных данных:**  
+
+**Формат выходных данных:**  
+Программа должна вывести указанную последовательность символов.  
+
+### 7.1.3 Решение  
+
+Файл [7.1.3_Character_sequence.py](7.1.3_Character_sequence.py)
+
+```python
+for i in range(6):
+    print('AAA')
+for i in range(5):
+    print('BBBB')
+print('E')
+for i in range(9):
+    print('TTTTT')
+print('G')
+```
