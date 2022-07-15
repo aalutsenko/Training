@@ -4,22 +4,25 @@
 
 ## 1. Вывод текста
 
-### Условие задачи:  
+### Условие задачи 1  
+
 Написать программу, которая выводит текст:  
 > "Python is a great language!", said Fred. "I don't ever remember having this much fun before."  
 
 ***Примечание:*** Использовать конкатенацию строк.  
 
-### Решение:  
+### Решение 1  
 
 Файл [6.2.1_Text_output.py](6.2.1_Text_output.py)
 
 ```python
 print('"' + 'Python is a great language!' + '"' + ', said Fred. ' + '"' + 'I ' + "don't" + ' ever remember having this much fun before.' + '"')
 ```
+
 ## 2. Как твоё имя?
 
-### Условие задачи:  
+### Условие задачи 2 
+
 Напишите программу, которая считывает с клавиатуры две строки – `имя` и `фамилию` пользователя и выводит фразу:  
 > «Hello [введенное имя] [введенная фамилия]! You just delved into Python».
 
@@ -31,7 +34,7 @@ print('"' + 'Python is a great language!' + '"' + ', said Fred. ' + '"' + 'I ' +
 
 ***Примечание:*** Между `firstname` и `lastname` вставьте пробел.
 
-### Решение:  
+### Решение 2  
 
 Файл [6.2.2_What's_Your_Name.py](6.2.2_What's_Your_Name.py)  
 
