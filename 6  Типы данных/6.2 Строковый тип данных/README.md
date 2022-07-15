@@ -25,13 +25,15 @@ print('"' + 'Python is a great language!' + '"' + ', said Fred. ' + '"' + 'I ' +
 
 **Формат входных данных:**  
 На вход программе подаётся две строки (имя и фамилия), каждая на отдельной строке.  
+
 **Формат выходных данных:**  
 Программа должна вывести текст в соответствии с условием задачи.
+
 ***Примечание:*** Между `firstname` и `lastname` вставьте пробел.
 
 **Решение:**  
 
-Файл [6.2.2_What's Your Name.py](6.2.2_What's Your Name.py)  
+Файл [6.2.2_What's_Your_Name.py](6.2.2_What's_Your_Name.py)  
 
 ```python
 firstname, lastname = input(), input()
