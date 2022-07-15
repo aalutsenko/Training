@@ -1,0 +1,25 @@
+# 7.1 Цикл for
+
+> *Здесь находятся задачи по теме "Цикл `for`"*
+
+[Справка по теме в Wiki](https://github.com/aalutsenko/Training/wiki/7.1-Цикл-for)
+
+## 7.1.1 Python is awesome
+
+### 7.1.1 Условие задачи  
+
+Напишисать программу, которая выводит слова «`Python is awesome!`» (без кавычек) 10 раз.
+
+**Формат входных данных:**
+
+**Формат выходных данных:**
+Программа должна вывести 10 раз текст «`Python is awesome!`», каждый на отдельной строке.  
+
+### 7.1.1 Решение  
+
+Файл [7.1.1_Python_is_awesome.py](7.1.1_Python_is_awesome.py)
+
+```python
+for i in range(10):
+    print('Python is awesome!')
+```
