@@ -3,8 +3,8 @@
 
 ---
 
-![Stepik](https://stepik.org/static/frontend/topbar_logo.svg "Логотип Stepik")  
+<img src="https://stepik.org/static/frontend/topbar_logo.svg" alt="drawing" width="200"/>  
 
 ---
 
-![](https://ucarecdn.com/5cf1b9b8-5df0-47e1-a977-05642ef9d293/)
+![](https://ucarecdn.com/5cf1b9b8-5df0-47e1-a977-05642ef9d293/)  
