@@ -21,5 +21,22 @@
 Файл [7.2.1_Sequence_of_numbers.py](7.2.1_Sequence_of_numbers.py)
 
 ```python
+m, n = int(input()), int(input())
+for i in range(m, n + 1):
+    print(i)
+```
 
+**Результат**
+При m = 1, n = 9
+
+```python
+1
+2
+3
+4
+5
+6
+7
+8
+9
 ```
