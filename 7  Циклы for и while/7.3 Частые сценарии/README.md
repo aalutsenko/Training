@@ -214,7 +214,6 @@ for _ in range(10):
 print(s)
 ```
 
-**Результат**  
 При
 
 ```python
