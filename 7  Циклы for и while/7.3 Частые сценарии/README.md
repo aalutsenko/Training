@@ -251,7 +251,7 @@ print(s)
 
 ### 7.3.7 Решение
 
-Файл [7.3.7_Sum of divisors.py](7.3.7_Sum of divisors.py)
+Файл [7.3.7_Sum_of_divisors.py](7.3.7_Sum_of_divisors.py)
 
 ```python
 n = int(input())
