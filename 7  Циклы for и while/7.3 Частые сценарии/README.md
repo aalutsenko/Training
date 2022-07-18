@@ -19,7 +19,7 @@
 
 ### 7.3.1 Решение
 
-Файл [7.3.1_Number_of_numbers.py](7.3.1_Number_of_numbers.py)
+Файл [7.3.01_Number_of_numbers.py](7.3.01_Number_of_numbers.py)
 
 ```python
 counter = 0
@@ -51,7 +51,7 @@ print(counter)
 
 ### 7.3.2 Решение
 
-Файл [7.3.2_Sum_of_numbers.py](7.3.2_Sum_of_numbers.py)
+Файл [7.3.02_Sum_of_numbers.py](7.3.02_Sum_of_numbers.py)
 
 ```python
 n = int(input())
@@ -91,7 +91,7 @@ print(s)
 
 ### 7.3.3 Решение
 
-Файл [7.3.3_Asymptotic_approximation.py](7.3.3_Asymptotic_approximation.py)
+Файл [7.3.03_Asymptotic_approximation.py](7.3.03_Asymptotic_approximation.py)
 
 ```python
 from math import *
@@ -125,7 +125,7 @@ print(s - log(n))
 
 ### 7.3.4 Решение
 
-Файл [7.3.4_The_sum_of_the_numbers_2.py](7.3.4_The_sum_of_the_numbers_2.py)
+Файл [7.3.04_The_sum_of_the_numbers_2.py](7.3.04_The_sum_of_the_numbers_2.py)
 
 ```python
 n = int(input())
@@ -166,7 +166,7 @@ print(s)
 
 ### 7.3.5 Решение
 
-Файл [7.3.5_Factorial.py](7.3.4_Factorial.py)
+Файл [7.3.05_Factorial.py](7.3.05_Factorial.py)
 
 ```python
 from math import *
@@ -203,7 +203,7 @@ print(factorial(n))
 
 ### 7.3.6 Решение
 
-Файл [7.3.6_Without_zeros.py](7.3.6_Without_zeros.py)
+Файл [7.3.06_Without_zeros.py](7.3.06_Without_zeros.py)
 
 ```python
 s = 1
@@ -251,7 +251,7 @@ print(s)
 
 ### 7.3.7 Решение
 
-Файл [7.3.7_Sum_of_divisors.py](7.3.7_Sum_of_divisors.py)
+Файл [7.3.07_Sum_of_divisors.py](7.3.07_Sum_of_divisors.py)
 
 ```python
 n = int(input())
@@ -294,7 +294,7 @@ print(s)
 
 ### 7.3.8 Решение
 
-Файл [7.3.8_Alternating_amount_sign.py](7.3.8_Alternating_amount_sign.py)
+Файл [7.3.08_Alternating_amount_sign.py](7.3.08_Alternating_amount_sign.py)
 
 ```python
 n = int(input())
@@ -335,7 +335,7 @@ print(s)
 
 ### 7.3.9 Решение
 
-Файл [7.3.9_Largest_number.py](7.3.9_Largest_number.py)
+Файл [7.3.09_Largest_number.py](7.3.09_Largest_number.py)
 
 ```python
 n = int(input())
