@@ -30,7 +30,7 @@
 
 Файл [7.9.01_Numerical_triangle_3.py](7.9.01_Numerical_triangle_3.py)
 
-**Результат**
+**Результат**  
 При `n = 3`
 
 ```python
