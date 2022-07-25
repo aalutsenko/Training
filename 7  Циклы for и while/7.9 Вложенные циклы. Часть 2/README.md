@@ -145,7 +145,7 @@
 
 ### 7.9.5 Решение
 
-Файл [7.9.05_digital_root.py](7.9.05_digital_root.py)
+Файл [7.9.05_Digital_root.py](7.9.05_Digital_root.py)
 
 **Результат**  
 При `n = 192`
@@ -179,7 +179,7 @@
 
 ### 7.9.6 Решение
 
-Файл [7.9.06_sum_factorials.py](7.9.06_sum_factorials.py)
+Файл [7.9.06_Sum_factorials.py](7.9.06_Sum_factorials.py)
 
 **Результат**  
 При `n = 3`
