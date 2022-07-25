@@ -1,3 +1,4 @@
+#
 n = int(input())
 while n//10 > 0:
     digital_root = 0
