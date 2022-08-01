@@ -1,10 +1,10 @@
 # Вариант 1: без вложенного цикла
 from math import *
+
 n = int(input())
 sum_factorials1 = 0
 for i in range(1, n + 1):
     sum_factorials1 += factorial(i)
-
 
 # Вариант 2: с вложенным циклом
 sum_factorials2 = 0
